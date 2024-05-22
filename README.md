@@ -1,6 +1,6 @@
 ## Ilustrando a Inteligência: Como Animações Explicam o Funcionamento das IA Generativas
 
-Este trabalho foi produzido durante o evento Santander 2024 - Fundamentos de IA para Devs, uma parceria entre a DIO e o Santander. Nesse desafio, decidi criar uma imagem utilizando inteligências artificiais generativas para explicar como elas funcionam. A seguir, apresento o resultado deste projeto.
+Este trabalho foi realizado durante o evento "Santander 2024 - Fundamentos de IA para Devs", uma parceria entre a DIO e o Santander. No desafio proposto, decidi criar uma imagem usando inteligências artificiais generativas para ilustrar as etapas envolvidas nesse processo. A seguir, apresento o resultado deste projeto.
 
 ---
 
@@ -19,5 +19,22 @@ O *ChatGPT* para escolher as melhores opções de prompts
 *Runwayml* para criar as imagens
 
 
+## Resultados 
+
+
+<div align="center">
+<img src="https://github.com/andersoncsalles/lab-natty-or-not/blob/main/exemplos/01.jpg" width="700" height="500">
+</div>
+
+
+<div align="center">
+<img src="https://github.com/andersoncsalles/lab-natty-or-not/blob/main/exemplos/02.jpg" width="700" height="500">
+</div>
+
+---
+
+## Conclusão
+
+A análise das imagens revela uma progressão discernível nas capacidades das inteligências artificiais generativas à medida que o processo de criação da imagem se desenrola. Observa-se um refinamento gradual, culminando, quando bem sucedido, em expressões cada vez mais humanas e naturais.
 
 
