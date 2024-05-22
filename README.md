@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+## Ilustrando a Inteligência: Como Animações Explicam o Funcionamento das IA Generativas
 
-## 🚀 Introdução
+Este trabalho foi produzido durante o evento Santander 2024 - Fundamentos de IA para Devs, uma parceria entre a DIO e o Santander. Nesse desafio, decidi criar uma imagem utilizando inteligências artificiais generativas para explicar como elas funcionam. A seguir, apresento o resultado deste projeto.
 
-> Woooow! Look at this 👀
+---
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## Introdução 
+> Inteligências Artificiais Generativas (IAGs) representam um avanço significativo no campo da inteligência artificial, focando na capacidade de criar novos conteúdos, desde texto e imagem até música e código de computador. Diferentemente das IA tradicionais que se limitam a identificar padrões ou fazer previsões baseadas em dados existentes, as IAGs são projetadas para gerar dados novos e originais. Esta capacidade é possível graças a modelos avançados de aprendizado de máquina, especialmente as Redes Neurais Generativas Adversariais (GANs) e os Transformadores, como o GPT-4 da OpenAI.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+As GANs funcionam através de um sistema de dois componentes: um gerador, que cria novos dados, e um discriminador, que tenta distinguir entre dados reais e gerados. Esse processo de competição entre os dois componentes resulta em dados gerados de alta qualidade, com aplicações que variam desde a criação de arte digital e design de produtos até a geração de imagens médicas sintéticas para treinamento de modelos. Exemplos notáveis incluem o DALL-E, que cria imagens a partir de descrições textuais, e o StyleGAN, usado para gerar rostos humanos incrivelmente realistas.
 
-### Objetivos
+Os transformadores, por outro lado, revolucionaram a geração de linguagem natural. Modelos como o GPT-4 são capazes de escrever textos coerentes, responder perguntas, traduzir idiomas e até mesmo criar código de software, baseando-se em vastos volumes de dados textuais. Eles têm sido empregados em assistentes virtuais, chatbots, e ferramentas de escrita automática. Esses avanços não só facilitam diversas tarefas cotidianas, mas também abrem novas fronteiras na criatividade e na automação, alterando profundamente a forma como interagimos com a tecnologia e produzimos conteúdo.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+### Inteligências Artificiais Generativas Utilizadas
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+O *ChatGPT* para escolher as melhores opções de prompts
 
-## 📒 Descrição
-Breve descrição do seu projeto
+*Runwayml* para criar as imagens
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
